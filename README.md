@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Red Planet Staffing
 
 Welcome to the red planet! At just over one million people as of the 2050 census, Martian settlements are flourishing. As the leading staffing marketplace on Mars, Red Planet connects workplaces with workers to fill shifts.
@@ -18,3 +19,6 @@ When they need a worker, workplaces post a "shift" on our marketplace. Workers o
 ## Submission
 
 Submit your solution by creating a pull request (PR) on this repository. Please **do not** merge your PR. Instead, return to your Hatchways assessment page to confirm your submission.
+=======
+# fetch-the-most-active-workplaces
+>>>>>>> 5078b128fb05d7de25579d40ae39acf330db8c9c
